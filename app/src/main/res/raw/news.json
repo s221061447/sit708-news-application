@@ -1,0 +1,142 @@
+[
+  {
+	"category": "politics",
+	"title": "Texas passes controversial voter ID law",
+	"small_description": "Critics say the law will disproportionately affect minorities",
+	"description": "The Texas legislature passed a controversial voter ID law today, which critics say will disproportionately affect minorities and make it more difficult for them to vote. The law requires voters to present a valid form of government-issued photo ID in order to cast a ballot.",
+	"image_src": "1"
+  },
+  {
+	"category": "entertainment",
+	"title": "New album from popular musician breaks streaming records",
+	"small_description": "Album earns millions of streams in first day of release",
+	"description": "The latest album from popular musician Taylor Swift broke streaming records today, earning millions of streams in its first day of release. The album features a mix of upbeat pop songs and introspective ballads, and has already garnered rave reviews from fans and critics alike.",
+	"image_src": "2"
+  },
+  {
+	"category": "technology",
+	"title": "Google unveils new artificial intelligence research initiative",
+	"small_description": "Initiative aims to advance the state of the art in AI research",
+	"description": "Google announced today a new initiative aimed at advancing the state of the art in artificial intelligence research. The initiative, which will involve collaboration with leading researchers from around the world, is expected to focus on developing new AI algorithms and models for a variety of applications.",
+	"image_src": "3"
+  },
+  {
+	"category": "business",
+	"title": "Tesla announces major new battery technology breakthrough",
+	"small_description": "New technology could significantly increase range and reduce cost of electric vehicles",
+	"description": "Tesla announced today a major new battery technology breakthrough, which could significantly increase the range and reduce the cost of electric vehicles. The new technology is expected to be a major boost for the electric vehicle industry, which has struggled to gain widespread adoption due to high costs and limited range.",
+	"image_src": "4"
+  },
+  {
+	"category": "sports",
+	"title": "World Cup champion to retire from international soccer",
+	"small_description": "Player helped lead team to victory in last year's World Cup",
+	"description": "One of the stars of last year's World Cup-winning team announced today that she will be retiring from international soccer. The player, who has been a dominant force on the field for years, helped lead her team to victory in the championship match and cemented her place as one of the greatest soccer players of all time.",
+	"image_src": "5"
+  },
+  {
+	"category": "politics",
+	"title": "Biden administration announces plan to address climate change",
+	"small_description": "Plan includes major investments in renewable energy and infrastructure",
+	"description": "The Biden administration announced a major new plan today to address climate change, which includes significant investments in renewable energy and infrastructure. The plan is expected to create millions of new jobs and help reduce greenhouse gas emissions.",
+	"image_src": "6"
+  },
+  {
+	"category": "entertainment",
+	"title": "New movie from acclaimed director set to debut at Cannes Film Festival",
+	"small_description": "Movie already generating buzz among film critics",
+	"description": "A new movie from acclaimed director Ava DuVernay is set to debut at the Cannes Film Festival later this month. The movie, which is already generating buzz among film critics, tells the story of a group of activists fighting for justice in a small town in the American South.",
+	"image_src": "7"
+  },
+  {
+	"category": "technology",
+	"title": "Apple announces major new software update for iPhone",
+	"small_description": "Update includes major improvements to privacy features",
+	"description": "Apple announced today a major new software update for the iPhone, which includes significant improvements to privacy features. The update is expected to be rolled out to millions of iPhone users around the world in the coming weeks.",
+	"image_src": "8"
+  },
+  {
+	"category": "business",
+	"title": "Amazon announces major expansion in India",
+	"small_description": "Expansion to include new fulfillment centers and thousands of new jobs",
+	"description": "Amazon announced today a major expansion in India, which will include the opening of several new fulfillment centers and the creation of thousands of new jobs. The expansion is part of Amazon's ongoing efforts to increase its presence in the fast-growing Indian e-commerce market.",
+	"image_src": "9"
+  },
+  {
+	"category": "sports",
+	"title": "Serena Williams announces retirement from professional tennis",
+	"small_description": "Williams considered one of the greatest tennis players of all time",
+	"description": "Tennis superstar Serena Williams announced her retirement from professional tennis today, bringing to a close a career that saw her win 23 Grand Slam singles titles and cement her place as one of the greatest tennis players of all time.",
+	"image_src": "10"
+  },
+  {
+	"category": "politics",
+	"title": "Democrats unveil new infrastructure plan",
+	"small_description": "Plan includes major investments in roads, bridges, and public transportation",
+	"description": "Democratic lawmakers unveiled a new infrastructure plan today, which includes major investments in roads, bridges, and public transportation. The plan is expected to be a major focus of the upcoming congressional session, and could have a significant impact on the nation's infrastructure.",
+	"image_src": "11"
+  },
+  {
+	"category": "politics",
+	"title": "Texas passes controversial voter ID law",
+	"small_description": "Critics say the law will disproportionately affect minorities",
+	"description": "The Texas legislature passed a controversial voter ID law today, which critics say will disproportionately affect minorities and make it more difficult for them to vote. The law requires voters to present a valid form of government-issued photo ID in order to cast a ballot.",
+	"image_src": "12"
+  },
+  {
+	"category": "entertainment",
+	"title": "New album from popular musician breaks streaming records",
+	"small_description": "Album earns millions of streams in first day of release",
+	"description": "The latest album from popular musician Taylor Swift broke streaming records today, earning millions of streams in its first day of release. The album features a mix of upbeat pop songs and introspective ballads, and has already garnered rave reviews from fans and critics alike.",
+	"image_src": "13"
+  },
+  {
+	"category": "technology",
+	"title": "Google unveils new artificial intelligence research initiative",
+	"small_description": "Initiative aims to advance the state of the art in AI research",
+	"description": "Google announced today a new initiative aimed at advancing the state of the art in artificial intelligence research. The initiative, which will involve collaboration with leading researchers from around the world, is expected to focus on developing new AI algorithms and models for a variety of applications.",
+	"image_src": "14"
+  },
+  {
+	"category": "business",
+	"title": "Tesla announces major new battery technology breakthrough",
+	"small_description": "New technology could significantly increase range and reduce cost of electric vehicles",
+	"description": "Tesla announced today a major new battery technology breakthrough, which could significantly increase the range and reduce the cost of electric vehicles. The new technology is expected to be a major boost for the electric vehicle industry, which has struggled to gain widespread adoption due to high costs and limited range.",
+	"image_src": "15"
+  },
+  {
+	"category": "sports",
+	"title": "World Cup champion to retire from international soccer",
+	"small_description": "Player helped lead team to victory in last year's World Cup",
+	"description": "One of the stars of last year's World Cup-winning team announced today that she will be retiring from international soccer. The player, who has been a dominant force on the field for years, helped lead her team to victory in the championship match and cemented her place as one of the greatest soccer players of all time.",
+	"image_src": "16"
+  },
+  {
+	"category": "politics",
+	"title": "Biden Administration announces new immigration policy",
+	"small_description": "New policy aims to provide pathway to citizenship for undocumented immigrants",
+	"description": "The Biden Administration announced a new immigration policy today, which aims to provide a pathway to citizenship for the millions of undocumented immigrants living in the United States. The policy has been widely praised by immigration advocates, but has also drawn criticism from some conservatives.",
+	"image_src": "17"
+  },
+  {
+	"category": "entertainment",
+	"title": "Netflix announces new show based on popular book series",
+	"small_description": "Series set to debut next year",
+	"description": "Netflix announced today that it is producing a new series based on the popular book series 'The Wheel of Time'. The series, which is set to debut next year, has been eagerly anticipated by fans of the books, and is expected to be a major hit for the streaming service.",
+	"image_src": "18"
+  },
+  {
+	"category": "technology",
+	"title": "Google announces new AI research center in China",
+	"small_description": "Center to focus on advancing AI technology",
+	"description": "Google announced today that it is opening a new AI research center in China, in an effort to advance the development of artificial intelligence technology. The center will be staffed by some of the world's leading AI experts, and is expected to make significant contributions to the field.",
+	"image_src": "19"
+  },
+  {
+	"category": "business",
+	"title": "Tesla announces new electric car model",
+	"small_description": "Model set to be the most affordable Tesla yet",
+	"description": "Tesla announced today that it is releasing a new electric car model, which is set to be the most affordable Tesla vehicle yet. The new model is expected to have a significant impact on the electric car market, and could lead to increased adoption of electric vehicles around the world.",
+	"image_src": "20"
+  }
+]
